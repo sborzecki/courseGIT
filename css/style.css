@@ -318,7 +318,7 @@ body {
         padding: 0 1.5rem; } }
   .overview__rating-average {
     font-size: 2.25rem;
-    font-weight: 300;
+    font-weight: 600;
     margin-bottom: -3px; }
     @media only screen and (max-width: 37.5em) {
       .overview__rating-average {
